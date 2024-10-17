@@ -1,0 +1,10 @@
+{
+  "sounds": {
+    "alphanumeric": "sounds/alphanumeric.wav",
+    "space": "sounds/space.wav",
+    "enter": "sounds/enter.wav",
+    "backspace": "sounds/backspace.wav"
+  },
+  "volume": 0.5,
+  "pitch": 1.0
+}

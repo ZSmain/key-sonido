@@ -1,0 +1,7 @@
+[project]
+name = "key-sonido"
+version = "0.1.0"
+description = "Beautiful key sounds for your linux"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = ["pynput", "pygame"]
